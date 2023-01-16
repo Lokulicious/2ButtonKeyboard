@@ -1,0 +1,24 @@
+### Module positions - created on 01/16/23 00:17:21 ###
+### Printed by Pcbnew version kicad (5.1.4)-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val               Package                               PosX       PosY       Rot  Side
+C1        0.1uF             C_0805_2012Metric                -179.9907  -105.9180    0.0000  bottom
+C2        0.1uF             C_0805_2012Metric                -174.1487   -87.5030    0.0000  bottom
+C3        22pF              C_0805_2012Metric                -189.7062  -100.8062    0.0000  bottom
+C4        22pF              C_0805_2012Metric                -189.7062   -92.8687  180.0000  bottom
+C5        0.1uF             C_0805_2012Metric                -167.0367  -100.7110   90.0000  bottom
+C6        10uF              C_0805_2012Metric                -167.0367   -93.0910  270.0000  bottom
+C7        1uF               C_0805_2012Metric                -181.7687   -86.5187   90.0000  bottom
+D3        D_Small           D_SOD-123                        -169.0687   -70.6437   90.0000  bottom
+D4        D_Small           D_SOD-123                        -188.9125   -70.5812   90.0000  bottom
+F1        Polyfuse_Small    Fuse_1206_3216Metric             -150.8125   -89.6937   90.0000  bottom
+R1        22                R_0805_2012Metric                -160.1937   -52.3875    0.0000  bottom
+R2        22                R_0805_2012Metric                -160.1937   -55.5625    0.0000  bottom
+R3        10k               R_0805_2012Metric                -187.3250   -88.1063   90.0000  bottom
+R4        10k               R_0805_2012Metric                -167.4812  -106.3625    0.0000  bottom
+SW1       SW_Push           SKQG-1155865                     -155.5750  -102.3937  180.0000  bottom
+U1        ATmega32U4-AU     TQFP-44_10x10mm_P0.8mm           -176.2125   -96.8375  270.0000  bottom
+USB1      Molex-0548190589  Molex-0548190589                 -170.6562   -50.0062  270.0000  bottom
+Y1        16MHz             Crystal_SMD_3225-4Pin_3.2x2.5mm  -189.7062   -96.8375   90.0000  bottom
+## End
